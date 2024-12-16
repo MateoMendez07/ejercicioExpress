@@ -1,0 +1,22 @@
+{
+  "name": "ejercicioexpress",
+  "version": "1.0.0",
+  "description": "Ejercicio con la libreria express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateoMendez07/ejercicioExpress.git"
+  },
+  "author": "HMMR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MateoMendez07/ejercicioExpress/issues"
+  },
+  "homepage": "https://github.com/MateoMendez07/ejercicioExpress#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
